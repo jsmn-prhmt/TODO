@@ -1,4 +1,4 @@
-# Simple TODO Application with JWT Auth, Caching, Pagination, and MySQL
+# TODO Application with JWT Auth, Caching, Pagination, and MySQL
 
 This project is a demonstration of a TODO application with:
 
