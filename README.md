@@ -8,12 +8,11 @@ This project is a demonstration of a TODO application with:
   - **Caching**: In-memory caching of task lists by user and pagination parameters for better performance.
   - **Input Validation**: Using `class-validator` and DTOs to validate incoming requests.
   - **Error Handling**: A global error handler with a `HttpError` class for consistent JSON error responses.
-  - **Performance & Readability**: Indexed columns in MySQL, caching, and cleaner code structure.
 
 - **Frontend (React, TypeScript)**:
   - Simple interface to login, retrieve tasks, and manage them.
   - Stores and sends JWT token for authentication.
-  - No offline support or PWA—just a straightforward frontend.
+  - No offline support or PWA; just a straightforward frontend.
 
 ## Features
 
@@ -41,7 +40,7 @@ This project is a demonstration of a TODO application with:
 ## Getting Started
 
 ### Prerequisites
-- Node.js (>=14)
+- Node.js
 - MySQL server running locally
 
 ### Backend Setup
