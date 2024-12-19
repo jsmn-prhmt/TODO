@@ -12,7 +12,7 @@ This project is a demonstration of a TODO application with:
 - **Frontend (React, TypeScript)**:
   - Simple interface to login, retrieve tasks, and manage them.
   - Stores and sends JWT token for authentication.
-  - No offline support or PWA; just a straightforward frontend.
+  - No offline support or PWA.
 
 ## Features
 
